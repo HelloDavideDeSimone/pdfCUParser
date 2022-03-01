@@ -1,0 +1,3634 @@
+{
+    "items": [
+      {
+        "str": "DEL D.P.R. 22 LUGLIO 1998, n. 322, RELATIVA ALL’ANNO",
+        "dir": "ltr",
+        "width": 275.62000000000006,
+        "height": 10,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          186.68,
+          781.5
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "",
+        "dir": "ltr",
+        "width": 0,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          90.80000000000001,
+          704.6
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "Comune",
+        "dir": "ltr",
+        "width": 22.673999999999996,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          90.80000000000001,
+          704.6
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 185.69600000000003,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          113.474,
+          704.6
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "Prov.",
+        "dir": "ltr",
+        "width": 14.004,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          299.17,
+          704.6
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 16.865999999999985,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          313.17400000000004,
+          704.6
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "Cap",
+        "dir": "ltr",
+        "width": 11.004,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          330.04,
+          704.6
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 43.02600000000001,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          341.04400000000004,
+          704.6
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "Indirizzo",
+        "dir": "ltr",
+        "width": 22.338,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          384.07000000000005,
+          704.6
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "Codice attività",
+        "dir": "ltr",
+        "width": 37.68,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          479.03000000000003,
+          680.85
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 12.739998000000014,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          516.71,
+          680.85
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "Codice sede",
+        "dir": "ltr",
+        "width": 33.348,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          529.449998,
+          680.85
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "Codice fiscale",
+        "dir": "ltr",
+        "width": 37.344,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          90.80000000000001,
+          656.7
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 109.286,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          128.144,
+          656.7
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "Cognome o Denominazione",
+        "dir": "ltr",
+        "width": 74.36399999999998,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          237.43,
+          656.7
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 118.57599999999985,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          311.79400000000015,
+          656.7
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "Nome",
+        "dir": "ltr",
+        "width": 16.002,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          430.37,
+          656.7
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "",
+        "dir": "ltr",
+        "width": 0,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          91.55000000000001,
+          650.8000000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "1",
+        "dir": "ltr",
+        "width": 2.7800000000000002,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          91.55000000000001,
+          650.8000000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 143.85,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          94.33000000000001,
+          650.8000000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "2",
+        "dir": "ltr",
+        "width": 2.7800000000000002,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          238.18,
+          650.8000000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 190.16,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          240.96,
+          650.8000000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "3",
+        "dir": "ltr",
+        "width": 2.7800000000000002,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          431.12,
+          650.8000000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "",
+        "dir": "ltr",
+        "width": 0,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          349.65,
+          628.85
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "Provincia",
+        "dir": "ltr",
+        "width": 24.672,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          349.65,
+          628.85
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 102.56799999999998,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          374.322,
+          628.85
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "Eventi",
+        "dir": "ltr",
+        "width": 16.674,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          476.89,
+          628.85
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "Sesso",
+        "dir": "ltr",
+        "width": 16.674,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          90.80000000000001,
+          627
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 311.726,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          107.474,
+          627
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "Categorie",
+        "dir": "ltr",
+        "width": 26.009999999999998,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          419.2,
+          628.85
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "eccezionali",
+        "dir": "ltr",
+        "width": 29.676,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          469.91999999999996,
+          622.65
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "di nascita (sigla)",
+        "dir": "ltr",
+        "width": 43.344,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          339.52,
+          622.65
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 36.335999999999956,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          382.86400000000003,
+          622.65
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "particolari",
+        "dir": "ltr",
+        "width": 26.004,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          419.2,
+          622.65
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "Data di nascita",
+        "dir": "ltr",
+        "width": 39.684,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          135.45,
+          621.4
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 31.42599999999993,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          175.13400000000007,
+          621.4
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "Comune (o Stato estero) di nascita",
+        "dir": "ltr",
+        "width": 92.70599999999999,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          206.56,
+          621.4
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "(M o F)",
+        "dir": "ltr",
+        "width": 12.888000000000002,
+        "height": 4,
+        "transform": [
+          4,
+          0,
+          0,
+          4,
+          92.55,
+          622.16
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "",
+        "dir": "ltr",
+        "width": 0,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          120.92,
+          616.3
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "giorno",
+        "dir": "ltr",
+        "width": 13.895000000000003,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          120.92,
+          616.3
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 8.664999999999992,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          134.815,
+          616.3
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "mese",
+        "dir": "ltr",
+        "width": 12.225000000000001,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          143.48,
+          616.3
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 13.125,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          155.70499999999998,
+          616.3
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "anno",
+        "dir": "ltr",
+        "width": 11.120000000000001,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          168.82999999999998,
+          616.3
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "4",
+        "dir": "ltr",
+        "width": 2.7800000000000002,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          91.55,
+          614.8
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 112.98,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          94.33,
+          614.8
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "6",
+        "dir": "ltr",
+        "width": 2.7800000000000002,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          207.31,
+          614.8
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 136.14000000000001,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          210.09,
+          614.8
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "7",
+        "dir": "ltr",
+        "width": 2.7800000000000002,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          346.23,
+          614.8
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 72.14000000000004,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          349.01,
+          614.8
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "8",
+        "dir": "ltr",
+        "width": 2.7800000000000002,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          421.15000000000003,
+          614.8
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 49.74000000000001,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          423.93,
+          614.8
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "9",
+        "dir": "ltr",
+        "width": 2.7800000000000002,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          473.67,
+          614.8
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "5",
+        "dir": "ltr",
+        "width": 2.7800000000000002,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          114.69999999999999,
+          614.3
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "",
+        "dir": "ltr",
+        "width": 0,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          276.24,
+          593.75
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "DOMICILIO FISCALE ALL’ 1/1/2021",
+        "dir": "ltr",
+        "width": 96.70800000000001,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          276.24,
+          593.75
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "Comune",
+        "dir": "ltr",
+        "width": 22.673999999999996,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          90.80000000000001,
+          585.2
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "",
+        "dir": "ltr",
+        "width": 0,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          91.55000000000001,
+          579.9000000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "20",
+        "dir": "ltr",
+        "width": 5.5600000000000005,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          91.55000000000001,
+          579.9000000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "",
+        "dir": "ltr",
+        "width": 0,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          276.24,
+          557.7500000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "DOMICILIO FISCALE ALL’ 1/1/2022",
+        "dir": "ltr",
+        "width": 96.70800000000001,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          276.24,
+          557.7500000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "Provincia (sigla)",
+        "dir": "ltr",
+        "width": 42.672,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          429.17,
+          549.9000000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 48.358000000000004,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          471.84200000000004,
+          549.9000000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "Fusione comuni",
+        "dir": "ltr",
+        "width": 42.34799999999999,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          520.2,
+          549.9000000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "Comune",
+        "dir": "ltr",
+        "width": 22.673999999999996,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          90.80000000000007,
+          549.2
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 407.54600000000005,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          113.47400000000006,
+          549.2
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "27",
+        "dir": "ltr",
+        "width": 5.5600000000000005,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          521.0200000000001,
+          544.6500000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "24",
+        "dir": "ltr",
+        "width": 5.5600000000000005,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          91.55000000000007,
+          543.9000000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 341.12,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          97.11000000000007,
+          543.9000000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "25",
+        "dir": "ltr",
+        "width": 5.5600000000000005,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          438.2300000000001,
+          543.9000000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "",
+        "dir": "ltr",
+        "width": 0,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          90.80000000000007,
+          513.7
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "Codice fiscale",
+        "dir": "ltr",
+        "width": 37.344,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          90.80000000000007,
+          513.7
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "",
+        "dir": "ltr",
+        "width": 0,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          91.55000000000007,
+          508.45000000000005
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "30",
+        "dir": "ltr",
+        "width": 5.5600000000000005,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          91.55000000000007,
+          508.45000000000005
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "",
+        "dir": "ltr",
+        "width": 0,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          24.47000000000007,
+          485.80000000000007
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "RISERVATO",
+        "dir": "ltr",
+        "width": 35.004,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          24.47000000000007,
+          485.80000000000007
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "AI PERCIPIENTI",
+        "dir": "ltr",
+        "width": 45.342,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          24.47000000000007,
+          478.80000000000007
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 20.987999999999985,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          69.81200000000008,
+          478.80000000000007
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "Codice di identificazione fiscale estero",
+        "dir": "ltr",
+        "width": 101.706,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          90.80000000000007,
+          477.70000000000005
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 52.12399999999991,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          192.50600000000017,
+          477.70000000000005
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "Località di residenza estera",
+        "dir": "ltr",
+        "width": 73.032,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          244.63000000000008,
+          477.70000000000005
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "",
+        "dir": "ltr",
+        "width": 0,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          91.55000000000007,
+          471.90000000000003
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "40",
+        "dir": "ltr",
+        "width": 5.5600000000000005,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          91.55000000000007,
+          471.90000000000003
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 148.27,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          97.11000000000007,
+          471.90000000000003
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "41",
+        "dir": "ltr",
+        "width": 5.5600000000000005,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          245.38000000000008,
+          471.90000000000003
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "",
+        "dir": "ltr",
+        "width": 0,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          90.80000000000007,
+          441.70000000000005
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "Via e numero civico",
+        "dir": "ltr",
+        "width": 52.349999999999994,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          90.80000000000007,
+          441.70000000000005
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 367.75,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          143.15000000000006,
+          441.70000000000005
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "Codice Stato estero",
+        "dir": "ltr",
+        "width": 52.691999999999986,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          510.9000000000001,
+          441.70000000000005
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "",
+        "dir": "ltr",
+        "width": 0,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          91.55000000000007,
+          435.90000000000003
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "42",
+        "dir": "ltr",
+        "width": 5.5600000000000005,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          91.55000000000007,
+          435.90000000000003
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 418.8999999999999,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          97.11000000000007,
+          435.90000000000003
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "44",
+        "dir": "ltr",
+        "width": 5.5600000000000005,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          516.01,
+          435.90000000000003
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "",
+        "dir": "ltr",
+        "width": 0,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          125.37,
+          403.85
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "DATA",
+        "dir": "ltr",
+        "width": 16.662,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          125.37,
+          403.85
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 182.89800000000002,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          142.03199999999998,
+          403.85
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "FIRMA DEL SOSTITUTO DI IMPOSTA",
+        "dir": "ltr",
+        "width": 105.34200000000001,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          324.93,
+          403.35
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "",
+        "dir": "ltr",
+        "width": 0,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          148.61,
+          398.25
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "anno",
+        "dir": "ltr",
+        "width": 11.120000000000001,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          148.61,
+          398.25
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "giorno",
+        "dir": "ltr",
+        "width": 13.895000000000003,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          96.59,
+          398.2
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 11.064999999999998,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          110.48500000000001,
+          398.2
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "mese",
+        "dir": "ltr",
+        "width": 12.225000000000001,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          121.55000000000001,
+          398.15
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "",
+        "dir": "ltr",
+        "width": 0,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          24.470000000000013,
+          471.59999999999997
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "ESTERI",
+        "dir": "ltr",
+        "width": 21.672,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          24.470000000000013,
+          471.59999999999997
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "",
+        "dir": "ltr",
+        "width": 0,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          437.87,
+          723.9
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "3",
+        "dir": "ltr",
+        "width": 2.7800000000000002,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          437.87,
+          723.9
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "4",
+        "dir": "ltr",
+        "width": 2.7800000000000002,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          91.55000000000001,
+          699.9
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 206.02,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          94.33000000000001,
+          699.9
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "5",
+        "dir": "ltr",
+        "width": 2.7800000000000002,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          300.35,
+          699.9
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 27.460000000000036,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          303.13,
+          699.9
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "6",
+        "dir": "ltr",
+        "width": 2.7800000000000002,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          330.59000000000003,
+          699.9
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 51.940000000000055,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          333.37,
+          699.9
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "7",
+        "dir": "ltr",
+        "width": 2.7800000000000002,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          385.31000000000006,
+          699.9
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "10",
+        "dir": "ltr",
+        "width": 5.5600000000000005,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          479.63000000000005,
+          675.9
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 45.56,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          485.19,
+          675.9
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "11",
+        "dir": "ltr",
+        "width": 5.5600000000000005,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          530.75,
+          675.9
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "Casi di esclusione",
+        "dir": "ltr",
+        "width": 40.290000000000006,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          511.33,
+          629.65
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "dalla precompilata",
+        "dir": "ltr",
+        "width": 40.57000000000001,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          511.7,
+          624.65
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "10",
+        "dir": "ltr",
+        "width": 5.5600000000000005,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          524.0699999999999,
+          615.9
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "",
+        "dir": "ltr",
+        "width": 0,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          473.29999999999995,
+          448.95
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "Non residenti",
+        "dir": "ltr",
+        "width": 35.346,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          473.29999999999995,
+          448.95
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "",
+        "dir": "ltr",
+        "width": 0,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          467.77,
+          435.9
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "43",
+        "dir": "ltr",
+        "width": 5.5600000000000005,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          467.77,
+          435.9
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "",
+        "dir": "ltr",
+        "width": 0,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          474.79999999999995,
+          441.75
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "Schumacker",
+        "dir": "ltr",
+        "width": 33.342,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          474.79999999999995,
+          441.75
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "",
+        "dir": "ltr",
+        "width": 0,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          91.54999999999995,
+          722.8
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "1",
+        "dir": "ltr",
+        "width": 2.7800000000000002,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          91.54999999999995,
+          722.8
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 108.82,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          94.32999999999996,
+          722.8
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "2",
+        "dir": "ltr",
+        "width": 2.7800000000000002,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          203.14999999999995,
+          723.9
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "",
+        "dir": "ltr",
+        "width": 0,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          90.79999999999995,
+          680.6
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "Telefono, fax",
+        "dir": "ltr",
+        "width": 34.68599999999999,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          90.79999999999995,
+          680.6
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 145.58399999999997,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          125.48599999999996,
+          680.6
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "Indirizzo di posta elettronica",
+        "dir": "ltr",
+        "width": 74.36399999999998,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          271.06999999999994,
+          680.6
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "",
+        "dir": "ltr",
+        "width": 0,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          91.54999999999993,
+          675.9
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "8",
+        "dir": "ltr",
+        "width": 2.7800000000000002,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          91.54999999999993,
+          675.9
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 177.94,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          94.32999999999993,
+          675.9
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "9",
+        "dir": "ltr",
+        "width": 2.7800000000000002,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          272.2699999999999,
+          675.9
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "numero",
+        "dir": "ltr",
+        "width": 16.950000000000003,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          134.26999999999992,
+          673.6
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "prefisso",
+        "dir": "ltr",
+        "width": 17.505,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          96.47999999999993,
+          673.6
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "",
+        "dir": "ltr",
+        "width": 0,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          24.469999999999928,
+          710.46
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "DATI RELATIVI AL",
+        "dir": "ltr",
+        "width": 43.89,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          24.469999999999928,
+          710.46
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "DATORE DI",
+        "dir": "ltr",
+        "width": 27.500000000000004,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          24.469999999999928,
+          703.85
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "LAVORO, ENTE",
+        "dir": "ltr",
+        "width": 37.505,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          24.469999999999928,
+          697.0500000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "PENSIONISTICO O",
+        "dir": "ltr",
+        "width": 44.455000000000005,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          24.469999999999928,
+          689.8900000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "ALTRO SOSTITUTO",
+        "dir": "ltr",
+        "width": 47.225,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          24.469999999999928,
+          682.8500000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "",
+        "dir": "ltr",
+        "width": 0,
+        "height": 0,
+        "transform": [
+          7,
+          0,
+          0,
+          7,
+          24.469999999999928,
+          725.9600000000002
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "DATI",
+        "dir": "ltr",
+        "width": 16.331000000000003,
+        "height": 7,
+        "transform": [
+          7,
+          0,
+          0,
+          7,
+          24.469999999999928,
+          725.9600000000002
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "ANAGRAFICI",
+        "dir": "ltr",
+        "width": 43.939,
+        "height": 7,
+        "transform": [
+          7,
+          0,
+          0,
+          7,
+          24.469999999999928,
+          718.7600000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "",
+        "dir": "ltr",
+        "width": 0,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          24.469999999999928,
+          675.6500000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "D'IMPOSTA",
+        "dir": "ltr",
+        "width": 27.580000000000002,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          24.469999999999928,
+          675.6500000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "DATI RELATIVI",
+        "dir": "ltr",
+        "width": 35.835,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          24.469999999999928,
+          655.95
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "AL DIPENDENTE",
+        "dir": "ltr",
+        "width": 40.28,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          24.469999999999928,
+          649.5500000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "PENSIONATO O",
+        "dir": "ltr",
+        "width": 38.339999999999996,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          24.469999999999928,
+          642.4000000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "ALTRO",
+        "dir": "ltr",
+        "width": 17.22,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          24.469999999999928,
+          636.4000000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "PERCETTORE",
+        "dir": "ltr",
+        "width": 34.169999999999995,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          24.469999999999928,
+          627.4000000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "DELLE SOMME",
+        "dir": "ltr",
+        "width": 36.67,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          24.469999999999928,
+          620.2
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "",
+        "dir": "ltr",
+        "width": 0,
+        "height": 0,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          186.67999999999995,
+          795.3000000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "CERTIFICAZIONE DI CUI ALL’ART. 4, COMMI 6-ter e 6-quater,",
+        "dir": "ltr",
+        "width": 291.14000000000004,
+        "height": 10,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          186.67999999999995,
+          795.3000000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "",
+        "dir": "ltr",
+        "width": 0,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          24.469999999999942,
+          517.8500000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "RAPPRESENTANTE",
+        "dir": "ltr",
+        "width": 47.78,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          24.469999999999942,
+          517.8500000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "DATI RELATIVI AL",
+        "dir": "ltr",
+        "width": 43.89,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          24.469999999999942,
+          523.6500000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "",
+        "dir": "ltr",
+        "width": 0,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          474.93999999999994,
+          544.6500000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "26",
+        "dir": "ltr",
+        "width": 5.5600000000000005,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          474.93999999999994,
+          544.6500000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "",
+        "dir": "ltr",
+        "width": 0,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          475.67999999999995,
+          549.8500000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "Codice comune",
+        "dir": "ltr",
+        "width": 41.681999999999995,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          475.67999999999995,
+          549.8500000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "Cognome o Denominazione",
+        "dir": "ltr",
+        "width": 74.36399999999998,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          201.94999999999993,
+          728.0000000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "Codice fiscale",
+        "dir": "ltr",
+        "width": 37.344,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          90.79999999999993,
+          728.0000000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 309.42600000000004,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          128.14399999999992,
+          728.0000000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "Nome",
+        "dir": "ltr",
+        "width": 16.002,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          437.56999999999994,
+          728.0000000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "Provincia (sigla)",
+        "dir": "ltr",
+        "width": 42.672,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          429.16999999999996,
+          585.9000000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 48.35799999999995,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          471.842,
+          585.9000000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "Fusione comuni",
+        "dir": "ltr",
+        "width": 42.34799999999999,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          520.1999999999999,
+          585.9000000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "",
+        "dir": "ltr",
+        "width": 0,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          521.02,
+          580.6500000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "23",
+        "dir": "ltr",
+        "width": 5.5600000000000005,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          521.02,
+          580.6500000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "21",
+        "dir": "ltr",
+        "width": 5.5600000000000005,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          438.22999999999996,
+          579.9000000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 31.150000000000034,
+        "height": 0,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          443.7899999999999,
+          579.9000000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "22",
+        "dir": "ltr",
+        "width": 5.5600000000000005,
+        "height": 5,
+        "transform": [
+          5,
+          0,
+          0,
+          5,
+          474.93999999999994,
+          580.6500000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "",
+        "dir": "ltr",
+        "width": 0,
+        "height": 0,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          475.67999999999995,
+          585.8500000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "Codice comune",
+        "dir": "ltr",
+        "width": 41.681999999999995,
+        "height": 6,
+        "transform": [
+          6,
+          0,
+          0,
+          6,
+          475.67999999999995,
+          585.8500000000001
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": true
+      },
+      {
+        "str": "CONFORME AL PROVVEDIMENTO AGENZIA DELLE ENTRATE DEL 14/01/2022 - ITWorking S.r.l.",
+        "dir": "ltr",
+        "width": 268.4040000000002,
+        "height": 6,
+        "transform": [
+          0,
+          6,
+          -6,
+          0,
+          21.84,
+          154.7
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 8.340000000000032,
+        "height": 0,
+        "transform": [
+          0,
+          6,
+          -6,
+          0,
+          21.84,
+          423.1040000000003
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "www.itworking.it",
+        "dir": "ltr",
+        "width": 43.001999999999995,
+        "height": 6,
+        "transform": [
+          0,
+          6,
+          -6,
+          0,
+          21.84,
+          431.44400000000036
+        ],
+        "fontName": "Helvetica",
+        "hasEOL": false
+      },
+      {
+        "str": "2021",
+        "dir": "ltr",
+        "width": 24,
+        "height": 10,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          507.7,
+          785.5
+        ],
+        "fontName": "Courier",
+        "hasEOL": true
+      },
+      {
+        "str": "BTTRRT54M01L850S",
+        "dir": "ltr",
+        "width": 96,
+        "height": 10,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          96.59999999999997,
+          713.4
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 12,
+        "height": 0,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          192.59999999999997,
+          713.4
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": "BOTTI",
+        "dir": "ltr",
+        "width": 30,
+        "height": 10,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          204.59999999999997,
+          713.4
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 207.60000000000002,
+        "height": 0,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          234.59999999999997,
+          713.4
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": "ROBERTO",
+        "dir": "ltr",
+        "width": 42,
+        "height": 10,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          442.2,
+          713.4
+        ],
+        "fontName": "Courier",
+        "hasEOL": true
+      },
+      {
+        "str": "Fraz. CASCINE BUTI",
+        "dir": "ltr",
+        "width": 108,
+        "height": 10,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          96.59999999999997,
+          689.3
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 100.80000000000001,
+        "height": 0,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          204.59999999999997,
+          689.3
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": "PI",
+        "dir": "ltr",
+        "width": 12,
+        "height": 10,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          305.4,
+          689.3
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 16.80000000000001,
+        "height": 0,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          317.4,
+          689.3
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": "56032",
+        "dir": "ltr",
+        "width": 30,
+        "height": 10,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          334.2,
+          689.3
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 20.399999999999977,
+        "height": 0,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          364.2,
+          689.3
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": "VIA SARZANESE VALDERA, 23",
+        "dir": "ltr",
+        "width": 150,
+        "height": 10,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          384.59999999999997,
+          689.3
+        ],
+        "fontName": "Courier",
+        "hasEOL": true
+      },
+      {
+        "str": "r.adragna@gps-service.it",
+        "dir": "ltr",
+        "width": 144,
+        "height": 10,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          276.59999999999997,
+          665.3
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 61.80000000000001,
+        "height": 0,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          420.59999999999997,
+          665.3
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": "682002",
+        "dir": "ltr",
+        "width": 36,
+        "height": 10,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          482.4,
+          665.3
+        ],
+        "fontName": "Courier",
+        "hasEOL": true
+      },
+      {
+        "str": "DGRRRT84S25D643O",
+        "dir": "ltr",
+        "width": 96,
+        "height": 10,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          96.59999999999997,
+          641.1999999999999
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 48,
+        "height": 0,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          192.59999999999997,
+          641.1999999999999
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": "DI GIROLAMO",
+        "dir": "ltr",
+        "width": 66,
+        "height": 10,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          240.59999999999997,
+          641.1999999999999
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 128.39999999999998,
+        "height": 0,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          306.59999999999997,
+          641.1999999999999
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": "ROBERTO",
+        "dir": "ltr",
+        "width": 42,
+        "height": 10,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          434.99999999999994,
+          641.1999999999999
+        ],
+        "fontName": "Courier",
+        "hasEOL": true
+      },
+      {
+        "str": "M",
+        "dir": "ltr",
+        "width": 6,
+        "height": 10,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          96.59999999999997,
+          605.1999999999999
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 13.900000000000006,
+        "height": 0,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          102.59999999999997,
+          605.1999999999999
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": "25",
+        "dir": "ltr",
+        "width": 12,
+        "height": 10,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          116.49999999999997,
+          605.1999999999999
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 9.599999999999994,
+        "height": 0,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          128.49999999999997,
+          605.1999999999999
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": "11",
+        "dir": "ltr",
+        "width": 12,
+        "height": 10,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          138.09999999999997,
+          605.1999999999999
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 12,
+        "height": 0,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          150.09999999999997,
+          605.1999999999999
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": "1984",
+        "dir": "ltr",
+        "width": 24,
+        "height": 10,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          162.09999999999997,
+          605.1999999999999
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 25.69999999999999,
+        "height": 0,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          186.09999999999997,
+          605.1999999999999
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": "FOGGIA",
+        "dir": "ltr",
+        "width": 36,
+        "height": 10,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          211.79999999999995,
+          605.1999999999999
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 100.80000000000001,
+        "height": 0,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          247.79999999999995,
+          605.1999999999999
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": "FG",
+        "dir": "ltr",
+        "width": 12,
+        "height": 10,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          348.59999999999997,
+          605.1999999999999
+        ],
+        "fontName": "Courier",
+        "hasEOL": true
+      },
+      {
+        "str": "FOGGIA",
+        "dir": "ltr",
+        "width": 36,
+        "height": 10,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          96.59999999999997,
+          569.0999999999999
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 316.8,
+        "height": 0,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          132.59999999999997,
+          569.0999999999999
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": "FG",
+        "dir": "ltr",
+        "width": 12,
+        "height": 10,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          449.4,
+          569.0999999999999
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 24,
+        "height": 0,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          461.4,
+          569.0999999999999
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": "D643",
+        "dir": "ltr",
+        "width": 24,
+        "height": 10,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          485.4,
+          569.0999999999999
+        ],
+        "fontName": "Courier",
+        "hasEOL": true
+      },
+      {
+        "str": "24",
+        "dir": "ltr",
+        "width": 12,
+        "height": 10,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          94.89999999999998,
+          388.69999999999993
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 9.599999999999994,
+        "height": 0,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          106.89999999999998,
+          388.69999999999993
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": "02",
+        "dir": "ltr",
+        "width": 12,
+        "height": 10,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          116.49999999999997,
+          388.69999999999993
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 12,
+        "height": 0,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          128.49999999999997,
+          388.69999999999993
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": "2022",
+        "dir": "ltr",
+        "width": 24,
+        "height": 10,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          140.49999999999997,
+          388.69999999999993
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": " ",
+        "dir": "ltr",
+        "width": 32.900000000000006,
+        "height": 0,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          164.49999999999997,
+          388.69999999999993
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      },
+      {
+        "str": "BOTTI ROBERTO",
+        "dir": "ltr",
+        "width": 78,
+        "height": 10,
+        "transform": [
+          10,
+          0,
+          0,
+          10,
+          197.39999999999998,
+          388.69999999999993
+        ],
+        "fontName": "Courier",
+        "hasEOL": false
+      }
+    ],
+    "styles": {
+      "Helvetica": {
+        "fontFamily": "sans-serif",
+        "ascent": null,
+        "descent": null,
+        "vertical": false
+      },
+      "Courier": {
+        "fontFamily": "monospace",
+        "ascent": null,
+        "descent": null,
+        "vertical": false
+      }
+    }
+  }

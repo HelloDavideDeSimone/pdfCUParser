@@ -1,0 +1,17 @@
+{
+  "name": "pdfparser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pdf2svg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-stringify": "^6.0.5",
+    "node-csv": "^0.1.2",
+    "pdf-lib": "^1.17.1",
+    "pdfjs-dist": "^2.12.313"
+  }
+}
