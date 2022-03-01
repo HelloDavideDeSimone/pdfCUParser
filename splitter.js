@@ -1,22 +1,19 @@
 const fs = require('fs');
 const PDFDocument = require('pdf-lib').PDFDocument;
 const pdfjsLib = require("pdfjs-dist/legacy/build/pdf.js");
-const stringify = require('csv-stringify');
 
-const PDF_PATH = "./example_data/MTS/CU2022rif2021.pdf";
-const PAGE_NUMBER = 0;
+const PDF_PATH = "./example_data/cuMTS2022.pdf";
 const PAGE_SCALE = 1.5;
-const SVG_NS = "http://www.w3.org/2000/svg";
 var lastPage = null;
 var pdfData = [];
 var namesInPdf = [];
-const fileNamePrefix = "CU2022";
+const fileNamePrefix = "cuMTS2022";
 
 const DATA_POSITIONS = [
-    {"firstName": [[10, 434.99999999999994, 641.1999999999999]]},
-    {'lastName': [[10,240.59999999999997,641.1999999999999]]},
-    {'positinCertificazione': [[10, 186.67999999999995, 795.3000000000001]]},
-    {'fiscalCode': [[10, 96.59999999999997, 641.1999999999999]]}
+    {"firstName": [[10, 435, 641.2]]},
+    {'lastName': [[10, 240.6, 641.2]]},
+    {'positinCertificazione': [[10, 186.68, 795.3]]},
+    {'fiscalCode': [[10, 96.6, 641.2]]}
   ]
   
 function hasSubArray(master, subArray) {
@@ -99,7 +96,7 @@ async function splitPdf() {
         }
         const pdfBytes = await subDocument.save();
         const fileName = `${fileNamePrefix}_${pdfData[index].firstName}_${pdfData[index].lastName}_${pdfData[index].startPage}`;
-        await writePdfBytesToFile(`./exported_data/exportedMTS/${fileName}.pdf`, pdfBytes);
+        await writePdfBytesToFile(`./exported_data/mts/${fileName}.pdf`, pdfBytes);
     }
 
     console.log('--END--');

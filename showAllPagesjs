@@ -13,21 +13,17 @@
  * limitations under the License.
  */
 
-const PDF_PATH = "./MTS/CU2022rif2021.pdf";
+const PDF_PATH = "./example_data/cuMTS2022.pdf";
 const PAGE_NUMBER = 0;
 const PAGE_SCALE = 1.5;
 const SVG_NS = "http://www.w3.org/2000/svg";
 var lastPage = null;
 const DATA_POSITIONS = [
-    {"firstName": [[10, 434.99999999999994, 641.1999999999999]]},
-    {'lastName': [[10,240.59999999999997,641.1999999999999]]},
-    {'positinCertificazione': [[10, 186.67999999999995, 795.3000000000001]]},
-    {'fiscalCode': [[10, 96.59999999999997, 641.1999999999999]]}
+    {"firstName": [[10, 435, 641.2]]},
+    {'lastName': [[10, 240.6, 641.2]]},
+    {'positinCertificazione': [[10, 186.68, 795.3]]},
+    {'fiscalCode': [[10, 96.6, 641.2]]}
   ]
-  
-pdfjsLib.GlobalWorkerOptions.workerSrc =
-  "../../node_modules/pdfjs-dist/build/pdf.worker.js";
-
 function buildSVG(viewport, textContent) {
   // Building SVG with size of the viewport (for simplicity)
   const svg = document.createElementNS(SVG_NS, "svg:svg");
@@ -67,7 +63,7 @@ async function pageLoaded() {
 
     const pdfData = [];
     lastPage = pdfDocument.numPages + 1;
-    for (let pageIndex = 1; pageIndex < pdfDocument.numPages + 1; pageIndex++) {
+    for (let pageIndex = 1; pageIndex < lastPage ; pageIndex++) {
         const page = await pdfDocument.getPage(pageIndex);
         const viewport = page.getViewport({ scale: PAGE_SCALE });
         const textContent = await page.getTextContent();
@@ -91,21 +87,12 @@ async function pageLoaded() {
                 {
                     pdfData.push(tempObj);
                 }
-
+        console.log(textContent);
         //document.getElementById("pageContainer").appendChild(svg);
         //page.cleanup();
     }
 
-    for(i=0; i < lastPage ; i++) {
-        if(i == pdfData.length - 1) {
-            pdfData[i].endPage = lastPage - 1;
-            console.log("page to export:",pdfData);
-            return;
-        }
-        pdfData[i].endPage = pdfData[i+1].startPage - 1;
-    }
 }
-
 
 document.addEventListener("DOMContentLoaded", function () {
   if (typeof pdfjsLib === "undefined") {
